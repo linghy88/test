@@ -1,3 +1,4 @@
 hello world
 hot-fix
 main_merge_test
+test_merge_hot
